@@ -1,6 +1,6 @@
 cask 'cleanmymac-cn' do
   version 'latest'
-  sha256 'a6898786e22488e382bcf64874b0e6ee5bc964a9ca88195728b844033c2771ff'
+  sha256 :no_check
 
   # devmate.com/com.macpaw.CleanMyMac was verified as official when first introduced to the cask
   url 'https://dl.devmate.com/com.macpaw.zh.CleanMyMac3/CleanMyMacChinese.dmg'
