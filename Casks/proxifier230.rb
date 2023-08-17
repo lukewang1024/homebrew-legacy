@@ -3,8 +3,6 @@ cask "proxifier230" do
   sha256 "3881c5c5c236b39e8b3e1972898481301f9c9739e41bf5f1c79ecf1414ab70a4"
 
   url "https://www.proxifier.com/download/legacy/ProxifierMac230.zip"
-  appcast "https://www.proxifier.com/changelog/mac.html",
-          must_contain: version.major_minor
   name "Proxifier"
   homepage "https://www.proxifier.com/mac/"
 

@@ -4,7 +4,6 @@ cask 'mweb2' do
 
   # dl.devmate.com/com.coderforart.MWeb was verified as official when first introduced to the cask
   url 'https://dl.devmate.com/com.coderforart.MWeb/MWeb-ProMarkdownwriting%2CnotetakingandstaticbloggeneratorApp.dmg'
-  appcast 'https://updates.devmate.com/com.coderforart.MWeb.xml'
   name 'MWeb'
   homepage 'http://www.mweb.im/'
 
